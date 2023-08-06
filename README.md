@@ -1,6 +1,6 @@
-# RemoteProcessInjection
+# RemoteProcessInjection and dll injection
 
-Here's a basic remote process injection
+Here's a basic remote process injection and dll injection
 
 Make sure to write the proper pid 
 
